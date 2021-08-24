@@ -1,0 +1,17 @@
+{
+  "name": "wcat2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "wcat": "index.js"
+  },
+  "scripts": {
+    "wcat": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
